@@ -3,6 +3,12 @@ This is an ODE-based modchip for the Nintendo GameCube to boot homebrew.\
 Its price and functionality are very similar to [PicoBoot](https://github.com/webhdx/PicoBoot) but it has multiple advantages.
 
 Join the [Discord server](https://discord.gg/YtA9aU3BKZ) to get support and discuss the mod!
+## PicoLoader(all in one)
+PCB:https://github.com/RetroScaler/PicoLoader/blob/db4fb3f0ec0b97f5df32f6fb9c40c7c261e4086c/picoloader%20Hardware(all%20in%20one%20)
+<div style="display: flex; gap: 10px; flex-wrap: nowrap; justify-content: center;">
+  <a href="#"><img style="width: 50%; height: auto;" alt="1" src="https://github.com/RetroScaler/PicoLoader/blob/db4fb3f0ec0b97f5df32f6fb9c40c7c261e4086c/picoloader%20Hardware(all%20in%20one%20)/top.jpg" /></a>
+  <a href="#"><img style="width: 50%; height: auto;" alt="1" src="https://github.com/RetroScaler/PicoLoader/blob/db4fb3f0ec0b97f5df32f6fb9c40c7c261e4086c/picoloader%20Hardware(all%20in%20one%20)/bottom.jpg" /></a>
+</div>
 
 ## How does it work?
 This mod works by emulating a disk drive during boot, executing a homebrew app, and afterwards re-enabling the disk drive.\
